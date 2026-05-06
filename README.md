@@ -2,7 +2,7 @@
 
  <!--![DSA Visualizer Banner](https://your-banner-image-link.com) Optional: Add a cool banner image -->
 
-Live Application: [🔗 Open App](https://dsavisualizerbyharshraj1695.netlify.app/)
+Live Application: [🔗 Open App]((https://dsa-code-structure-visualizer.netlify.app/))
 
 ---
 
